@@ -1,4 +1,13 @@
 ###################
+FINGENT MACHINE TEST
+###################
+
+Database is included in the same as fin_test.sql
+URL for the app is http://localhost/fingent
+Username and Password are 'fingent', 'test'
+
+
+###################
 What is CodeIgniter
 ###################
 
