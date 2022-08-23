@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+body{margin:-10px; padding:0px; background:url(../images/page_bg.png); background-repeat:repeat-x; background-color: #CDCED3;}
+.main_table{/*background-color:#FFF;*/}
+.tmpl_head{font-family:Arial; font-size:30px; color:#163552; font-weight:bold;text-shadow:1px 1px 0px #CCC;}
+.tmpl_bar{background:url(../images/bar.png); background-repeat:repeat;}
+.footer{font-family:Arial; font-size:12px; color:#FFF; font-weight:bold; background:url(../images/footer.png); background-repeat:repeat-x;}
+.ash_bordr{border:solid #E2E2E2 1px;}
+.pad1{padding:3px;}
+.newsbox{ border:solid #E2E2E2 1px;border-radius:6px; background-color:#F7F7F7; max-height:300px;}
+.newsboxhead{ font-family:Arial; font-size:28px; color:#FFF; font-weight:bold; background-color:#1C98D9; padding:5px;}
+
+.fnt{font-family:Arial; font-size:24px; color:#003;}
+@page {
+	margin-top: 1cm;
+	margin-bottom: 2.0cm;
+	margin-left: 1.5cm;
+	margin-right: 1.5cm;
+	margin-header: 0mm;
+	margin-footer: 8mm;
+	footer: html_myHTMLFooter;
+	background-color:#ffffff;
+}

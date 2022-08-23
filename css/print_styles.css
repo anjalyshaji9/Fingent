@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+body{margin:0px; padding:0px; background:url(../images/page_bg.png); background-repeat:repeat-x; background-color: #CDCED3;}
+.main_table{/*background-color:#FFF;*/}
+.tmpl_head{font-family:Arial; font-size:24px; color:#000; font-weight:bold;}
+.tmpl_head_applno{font-family:Arial; font-size:20px; color:#000; font-weight:bold;}
+.tmpl_bar{background:url(../images/bar.png); background-repeat:repeat;}
+.footer{font-family:Arial; font-size:12px; color:#FFF; font-weight:bold; background:url(../images/footer.png); background-repeat:repeat-x;}
+.ash_bordr{border:solid #E2E2E2 1px;}
+.pad1{padding:3px;}
+.newsbox{ border:solid #E2E2E2 1px;border-radius:6px; background-color:#F7F7F7; max-height:300px;}
+.newsboxhead{ font-family:Arial; font-size:14px; color:#FFF; font-weight:bold; background-color:#1C98D9;}
+.white_sub_head{ font-family:Arial; font-size:12px; color:#FFF; font-weight:bold; background-color:#1C98D9;}
+.white_small_fnt{font-family:Arial; font-size:11px; color:#FFF; font-weight:bold; background-color:#1C98D9;}
+.black_small_fnt{font-family:Arial; font-size:11px; color:#000;}
+.blue_small_fnt{font-family:Arial; font-size:12px; color:#03F; font-weight:bold;}
+.fnt_td{font-family:Arial; font-size:18px; color:#000;}
+.fnt_decl{font-family:Arial; font-size:16px; color:#000;}
+@page {
+	margin-top: 0cm;
+	margin-bottom: 0cm;
+	margin-left: 5mm;
+	margin-right: 5mm;
+	margin-header: 0mm;
+	margin-footer: 0mm;
+	footer: html_myHTMLFooter;
+	background-color:#ffffff;
+}
